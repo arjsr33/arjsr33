@@ -1,4 +1,4 @@
-## Hey there! I'm Arjun K 👋  
+## Hey there! I'm Arjun 👋  
 Breaking things to learn how they work. Fixing them so they work better.  
 A full-stack web developer with a love for clean code, powerful UIs, and real-world impact. I’m working on a lot of things and I’m just getting started.
 
