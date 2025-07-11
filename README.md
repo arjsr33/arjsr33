@@ -1,4 +1,4 @@
-## Hey there! I'm Arjun K 👋  
+## Hey there! I'm Arjun 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=arjsr33&label=Profile%20Views&color=blueviolet&style=flat)
 
 Breaking things to learn how they work. Fixing them so they work better.  
