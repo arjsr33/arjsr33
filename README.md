@@ -1,13 +1,13 @@
 ## Hey there! I'm Arjun K 👋  
 Breaking things to learn how they work. Fixing them so they work better.  
-A full-stack web developer with a love for clean code, powerful UIs, and real-world impact. I’ve worked on everything from internship portals to movie ticketing systems — and I’m just getting started.
+A full-stack web developer with a love for clean code, powerful UIs, and real-world impact. I’m working on a lot of things and I’m just getting started.
 
 ---
 
 ### 🚀 What I’m Up To
 
 🔭 Currently building full-stack applications using the **MERN stack**  
-🌱 Diving deeper into backend architecture, clean APIs, and DevOps basics  
+🌱 Diving deeper into backend architecture, clean APIs, and DevOps  
 🛠 Focused on performance optimization, user experience, and modern frontend design  
 👀 Exploring tools like Redux Toolkit and custom hooks to build scalable apps  
 🌌 Experimenting with **Three.js** to bring interactive 3D elements to the web — expect more on that here soon!  
