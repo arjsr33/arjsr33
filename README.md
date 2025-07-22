@@ -9,10 +9,10 @@ A full-stack web developer with a love for clean code, powerful UIs, and real-wo
 ### 🚀 What I’m Up To
 
 🔭 Currently building full-stack applications using the **MERN stack**  
-🌱 Diving deeper into backend architecture, clean APIs, and DevOps basics  
+🌱 Diving deeper into backend architecture, clean APIs, and DevOps.  
 🧠 Studying **Machine Learning** and **AI**, aiming to bring intelligent features to web products  
 🛠 Focused on performance optimization, user experience, and modern frontend design  
-👀 Exploring tools like Redux Toolkit and custom hooks to build scalable apps  
+👀 Exploring tools like Redux Toolkit, HelmetJS and custom hooks to build scalable apps  
 🌌 Experimenting with **Three.js** to bring interactive 3D elements to the web — expect more on that here soon!  
 🎯 Always pushing for clean, reusable code that solves real problems
 
