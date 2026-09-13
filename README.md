@@ -26,125 +26,17 @@ I'm particularly interested in understanding what happens **beyond the code** �
 
 ---
 
-## 🧩 What I Like Building
+# 🛠️ Tech Stack
 
-I enjoy projects that go beyond a single layer of the stack.
-
-```text
-                    ┌─────────────────────┐
-                    │       Problem       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     Architecture    │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-       ┌───────────┐     ┌────────────┐    ┌────────────┐
-       │  Frontend │     │  Backend   │    │ AI / ML    │
-       │   & UX    │     │ & Database │    │  Systems   │
-       └─────┬─────┘     └─────┬──────┘    └─────┬──────┘
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ Deploy & Automate   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ Monitor • Debug     │
-                    │ • Improve           │
-                    └─────────────────────┘
-```
-
-I'm especially interested in projects where **software engineering, data, infrastructure, and intelligent systems intersect**.
-
----
-
-## 🔬 Technical Interests
-
-### 🧠 AI & Machine Learning
-
-Exploring both the fundamentals and engineering side of AI:
-
-* Supervised & unsupervised learning
-* Neural networks
-* Deep learning
-* Natural Language Processing
-* Generative AI
-* Large Language Models
-* Retrieval-Augmented Generation
-* Vector search
-* Semantic retrieval
-* Reranking
-* LLM evaluation
-* Prompt engineering
-* Tool calling
-* AI agents
-* Multi-agent systems
-* Agent orchestration
-
-### 🌐 Full-Stack & Backend Engineering
-
-Building applications across the frontend, backend, and data layers:
-
-* React and Redux
-* Node.js and Express
-* REST API design
-* Authentication & authorization
-* JWT-based systems
-* SQL & NoSQL databases
-* MongoDB and MySQL
-* Database design
-* Query optimization
-* Application data flows
-* API integrations
-
-### ☁️ Cloud & Infrastructure
-
-Learning how applications behave once they leave the development environment:
-
-* Microsoft Azure
-* Azure App Services
-* Docker
-* Kubernetes
-* Linux
-* CI/CD concepts
-* Production deployments
-* Deployment workflows
-* Configuration management
-* Monitoring
-* Log analysis
-* Incident troubleshooting
-
-### ⚙️ Automation & Reliability
-
-I like removing repetitive work and making systems easier to operate:
-
-* Deployment automation
-* Workflow automation
-* Operational tooling
-* Application monitoring
-* Log-based troubleshooting
-* Incident analysis
-* Failure handling
-* SLA-focused workflows
-* Production debugging
-
----
-
-## 🛠️ Languages & Tools
-
-### Languages
+## 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=fff)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=fff)
+
+---
+
+## 🌐 Full-Stack Development
 
 ### Frontend
 
@@ -156,110 +48,169 @@ I like removing repetitive work and making systems easier to operate:
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=fff)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=three.js\&logoColor=fff)
 
-### Backend & Databases
+**Development:**
+Component-Based UI · State Management · Responsive Interfaces · Form Workflows · Interactive 3D
+
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=fff)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=fff)
+
+**Development:**
+REST APIs · Authentication & Authorization · API Integrations · Backend Architecture · Application Workflows
+
+### Databases & Data
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=fff)
 ![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge\&logo=mongoose\&logoColor=fff)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=fff)
 
-### AI / ML
+**Areas:**
+SQL · NoSQL · Database Design · Query Optimization · Database Debugging · Application Data Flows · MongoDB Atlas · Vector Search
+
+---
+
+# 🧠 AI / ML
+
+## Machine Learning
+
+**Concepts & Techniques:**
+`Supervised Learning` · `Unsupervised Learning` · `Neural Networks` · `Deep Learning` · `Natural Language Processing`
+
+## Generative AI & LLMs
+
+**Models & Platforms:**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=fff)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge\&logo=googlegemini\&logoColor=fff)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=fff)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge\&logo=deepseek\&logoColor=fff)
+![Kimi](https://img.shields.io/badge/Kimi-000000?style=for-the-badge\&logo=moonshotai\&logoColor=fff)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=000)
 
-**AI concepts:**
-Machine Learning · Deep Learning · NLP · Neural Networks · Generative AI · LLMs · RAG · Vector Search · Semantic Retrieval · Reranking · AI Agents · Multi-Agent Systems
+**LLM & Generative AI:**
+`Large Language Models` · `LLM APIs` · `Prompt Engineering` · `Embeddings` · `Generative AI` · `Model Evaluation`
 
-### Cloud & DevOps
+## Retrieval & RAG
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=fff)
+**Techniques:**
+`Retrieval-Augmented Generation` · `Vector Search` · `Semantic Retrieval` · `Lexical Retrieval` · `Hybrid Retrieval` · `Reranking` · `Metadata Filtering` · `Retrieval Evaluation` · `Grounded Generation`
+
+## AI Engineering
+
+**Systems & Workflows:**
+`Tool Calling` · `AI Agents` · `Multi-Agent Systems` · `Agent Orchestration` · `AI-Assisted Software Development`
+
+**Reliability & Security:**
+`Prompt Injection Protection` · `Failure Isolation` · `Rate Limiting` · `Usage Controls`
+
+## Frameworks & Libraries
+
+![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=000)
+
+**Tools & Technologies:**
+`Transformers` · `Embeddings` · `Vector Databases` · `Semantic Search` · `LLM Integration`
+
+---
+
+# ☁️ Cloud & DevOps
+
+## Cloud Platforms
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=fff)
+
+**Services & Areas:**
+Azure App Services · Cloud Environments · Application Monitoring · Production Systems
+
+## Containers & Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=000)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=fff)
+
+**Areas:**
+Containerization · Kubernetes · Linux · Windows · Deployment Environments · System Configuration
+
+## Deployment & Delivery
+
+**Areas:**
+`CI/CD Concepts` · `Production Deployments` · `Deployment Automation` · `Change Management` · `Configuration & Patch Management`
+
+---
+
+# ⚙️ Automation & Reliability
+
+## Automation
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge\&logo=google\&logoColor=fff)
+
+**Areas:**
+Workflow Automation · Scheduled Jobs · Deployment Scripts · API Integrations · Operational Tooling
+
+## Monitoring & Troubleshooting
+
+**Areas:**
+Application Monitoring · Log Analysis · Incident Management · Production Troubleshooting · Failure Analysis · SLA Adherence · Failure Isolation
+
+I enjoy understanding problems from the **system behavior and data** rather than treating symptoms in isolation.
+
+---
+
+# 🧰 Development Tools
+
+## Version Control & Collaboration
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=fff)
-
-### Development Tools
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=fff)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=fff)
 
----
+## Development & API Testing
 
-## 📂 Featured Projects
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=fff)
 
-### 🎓 ICT Academy Internship Portal
+**Development Practices:**
+API Testing · Debugging · Log Analysis · Database Debugging · Query Optimization · API Documentation
 
-A student-facing internship application platform built around a full-stack web architecture.
+## Automation & Integration
 
-**React · Node.js · Express · MongoDB**
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge\&logo=google\&logoColor=fff)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=fff)
 
-* Built the student-facing application workflow
-* Implemented internship application functionality
-* Integrated the frontend with a Node.js/Express backend
-* Worked with MongoDB for application data
-
-🔗 [Repository](https://github.com/arjsr33/ictak-studentview) · [Live Demo](https://ictportal.vercel.app)
-
----
-
-### 🎬 Chandni Movies — Movie Booking
-
-A full-stack movie booking application focused on user-facing booking workflows and state management.
-
-**React · Redux · Material UI · Node.js · Express · MongoDB**
-
-* Designed and developed the booking interface
-* Implemented Redux-based state management
-* Built backend APIs using Node.js and Express
-* Integrated MongoDB for application data
-* Deployed the application for public use
-
-🔗 [Repository](https://github.com/arjsr33/ticket-booking) · [Live Demo](https://chandnibookings.vercel.app)
+**Integrations:**
+REST APIs · External Service Integrations · Google Workspace Automation · Scheduled Workflows
 
 ---
 
-### 🪐 3D Solar System
+# 🔭 What I'm Exploring
 
-An interactive 3D solar system experiment built with Three.js.
+I'm currently focused on building increasingly complete systems and understanding the engineering decisions behind them.
 
-**Three.js · JavaScript · WebGL**
+### Software Engineering
 
-* Created a 3D representation of the solar system
-* Implemented planetary orbits and motion
-* Experimenting with interactive controls and UI overlays
-* Exploring ways to combine 3D visualization with traditional web interfaces
+`Backend Architecture` · `Distributed Systems` · `Data-Intensive Applications` · `API Design` · `System Reliability`
 
-🔭 [Repository](https://github.com/arjsr33/3dPlanets) · [Live Demo](https://arjsr33.github.io/3dPlanets)
+### AI / ML
 
----
+`Machine Learning` · `Deep Learning` · `NLP` · `Generative AI` · `LLMs` · `RAG` · `AI Agents` · `Multi-Agent Systems`
 
-### 🤖 More Experiments
+### Infrastructure
 
-I'm continuously building and experimenting with projects around:
+`Docker` · `Kubernetes` · `Cloud Architecture` · `CI/CD` · `Monitoring` · `Observability`
 
-* AI-powered applications
-* RAG and information retrieval
-* Machine learning
-* Backend systems
-* Automation
-* Cloud deployments
-* Developer tooling
-* Data-intensive applications
+### Data
 
-Check out my repositories for the latest experiments and ongoing work.
+`SQL` · `NoSQL` · `Vector Search` · `Information Retrieval` · `Data Pipelines`
 
 ---
 
-## 🧪 How I Learn
+# 🧪 How I Learn
 
 I learn best by **building something that forces me to understand the underlying system**.
 
-```text
+```text id="z8tqcv"
 Learn the concept
        ↓
 Build something with it
@@ -273,11 +224,11 @@ Understand why it works
 Make it better
 ```
 
-That's also why you'll find a mix of polished applications, experiments, and projects exploring specific technologies in my repositories.
+You'll find a mix of **applications, experiments, technical explorations, and ongoing projects** across my repositories.
 
 ---
 
-## 🌐 Let's Connect
+# 🌐 Let's Connect
 
 <p align="left">
   <a href="https://arjunsreedharan.com">
@@ -295,7 +246,7 @@ That's also why you'll find a mix of polished applications, experiments, and pro
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjsr33&show_icons=true&hide_title=true&theme=tokyonight" height="170" />
