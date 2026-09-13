@@ -234,11 +234,6 @@ You'll find a mix of **applications, experiments, technical explorations, and on
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjsr33&show_icons=true&hide_title=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjsr33&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=arjsr33&theme=tokyonight" />
 </p>
 
