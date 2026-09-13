@@ -10,19 +10,19 @@
 
 I build software to understand how things work — then break things apart to make them work better.
 
-My work spans **full-stack development, backend systems, databases, cloud infrastructure, automation, and AI/ML**. I enjoy working across the stack, from designing interfaces and APIs to debugging production systems, optimizing database operations, automating workflows, and experimenting with intelligent applications.
+My work spans **full-stack development, backend systems, databases, cloud infrastructure, automation, and AI/ML**. I enjoy working across the stack, from building interfaces and APIs to understanding data flows, debugging production systems, optimizing databases, automating workflows, and experimenting with intelligent applications.
 
 Currently, I'm expanding my work across:
 
-* 🧠 **AI & Machine Learning** — supervised and unsupervised learning, neural networks, deep learning and NLP
-* 🤖 **AI Engineering** — Generative AI, LLMs, RAG, tool calling, AI agents and multi-agent systems
+* 🧠 **AI & Machine Learning** — machine learning, deep learning, NLP, transformers and generative AI
+* 🤖 **AI Engineering** — LLMs, RAG, retrieval systems, tool calling, AI agents and multi-agent workflows
 * 🌐 **Full-Stack Development** — React, Redux, Node.js, Express, REST APIs and modern web applications
-* 🗄️ **Backend & Data** — API design, SQL/NoSQL databases, query optimization and application data flows
-* ☁️ **Cloud & Infrastructure** — Azure, Docker, Kubernetes, Linux and production deployments
-* ⚙️ **Automation & Reliability** — deployment automation, monitoring, logging, troubleshooting and operational tooling
-* 🎨 **Interactive Web** — experimenting with Three.js and 3D experiences
+* 🗄️ **Backend & Data** — SQL/NoSQL databases, database design, indexing, query optimization and data-intensive systems
+* ☁️ **Cloud & Infrastructure** — Azure, AWS, GCP, Docker, Kubernetes, Linux and production deployments
+* ⚙️ **Automation & Reliability** — scripting, CI/CD, background jobs, event-driven workflows, monitoring and production troubleshooting
+* 🎨 **Interactive Web** — experimenting with Three.js and interactive 3D experiences
 
-I'm particularly interested in understanding what happens **beyond the code** — how applications are deployed, how systems behave in production, how failures are diagnosed, how data moves through an application, and how new AI capabilities can be integrated into useful software.
+I'm particularly interested in what happens **beyond the code** — how applications are deployed, how data moves through systems, how distributed components communicate, how failures are diagnosed, and how emerging AI capabilities can be integrated into useful software.
 
 ---
 
@@ -36,7 +36,7 @@ I'm particularly interested in understanding what happens **beyond the code** �
 
 ---
 
-## 🌐 Full-Stack Development
+# 🌐 Full-Stack Development
 
 ### Frontend
 
@@ -49,138 +49,133 @@ I'm particularly interested in understanding what happens **beyond the code** �
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=three.js\&logoColor=fff)
 
 **Development:**
-Component-Based UI · State Management · Responsive Interfaces · Form Workflows · Interactive 3D
+Component-Based UI · State Management · Responsive Interfaces · Interactive 3D
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=fff)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=fff)
 
 **Development:**
-REST APIs · Authentication & Authorization · API Integrations · Backend Architecture · Application Workflows
+REST APIs · Authentication & Authorization · API Integrations · Backend Architecture · Application Workflows · Async Processing
 
 ### Databases & Data
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=fff)
-![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge\&logo=mongoose\&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=fff)
 
-**Areas:**
-SQL · NoSQL · Database Design · Query Optimization · Database Debugging · Application Data Flows · MongoDB Atlas · Vector Search
+**Data:**
+SQL · NoSQL · Database Design · Indexing · Query Optimization · Transactions · Caching · Data Pipelines · Vector Databases
 
 ---
 
 # 🧠 AI / ML
 
-## Machine Learning
+### Machine Learning
 
-**Concepts & Techniques:**
-`Supervised Learning` · `Unsupervised Learning` · `Neural Networks` · `Deep Learning` · `Natural Language Processing`
+**Machine Learning:**
+Supervised Learning · Unsupervised Learning · Regression · Classification · Clustering · Feature Engineering · Model Evaluation · Cross-Validation · Dimensionality Reduction · Ensemble Methods
 
-## Generative AI & LLMs
+### Deep Learning & NLP
 
-**Models & Platforms:**
+**Deep Learning:**
+Neural Networks · CNNs · RNNs · LSTMs / GRUs · Transformers · Attention Mechanisms · Transfer Learning · Fine-Tuning
+
+**NLP:**
+Text Preprocessing · Tokenization · Embeddings · Semantic Similarity · Text Classification
+
+### Generative AI & LLMs
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=fff)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge\&logo=googlegemini\&logoColor=fff)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=fff)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge\&logo=deepseek\&logoColor=fff)
 ![Kimi](https://img.shields.io/badge/Kimi-000000?style=for-the-badge\&logo=moonshotai\&logoColor=fff)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=000)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=000)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=fff)
 
-**LLM & Generative AI:**
-`Large Language Models` · `LLM APIs` · `Prompt Engineering` · `Embeddings` · `Generative AI` · `Model Evaluation`
+LLM APIs · Prompt Engineering · Transformers · Embeddings · Model Integration · Model Evaluation
 
-## Retrieval & RAG
+### Retrieval & RAG
 
-**Techniques:**
-`Retrieval-Augmented Generation` · `Vector Search` · `Semantic Retrieval` · `Lexical Retrieval` · `Hybrid Retrieval` · `Reranking` · `Metadata Filtering` · `Retrieval Evaluation` · `Grounded Generation`
+Retrieval-Augmented Generation · Chunking · Vector Search · Semantic Retrieval · Lexical Retrieval · Hybrid Retrieval · Reranking · Reciprocal Rank Fusion · Metadata Filtering · Vector Databases · Grounded Generation
 
-## AI Engineering
+### AI Agents
 
-**Systems & Workflows:**
-`Tool Calling` · `AI Agents` · `Multi-Agent Systems` · `Agent Orchestration` · `AI-Assisted Software Development`
-
-**Reliability & Security:**
-`Prompt Injection Protection` · `Failure Isolation` · `Rate Limiting` · `Usage Controls`
-
-## Frameworks & Libraries
-
-![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=000)
-
-**Tools & Technologies:**
-`Transformers` · `Embeddings` · `Vector Databases` · `Semantic Search` · `LLM Integration`
+AI Agents · Tool Calling · Agent Workflows · Multi-Agent Systems · Agent Orchestration · AI-Assisted Software Development
 
 ---
 
 # ☁️ Cloud & DevOps
 
-## Cloud Platforms
+### Cloud
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=fff)
+![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=fff)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=fff)
 
-**Services & Areas:**
-Azure App Services · Cloud Environments · Application Monitoring · Production Systems
+Cloud Deployment · Application Hosting · Cloud Services · Production Environments
 
-## Containers & Infrastructure
+### Containers & Orchestration
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=fff)
+
+Dockerfiles · Docker Compose · Multi-Stage Builds · Kubernetes Pods · Deployments · Services · Ingress
+
+### CI/CD & Delivery
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=fff)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=fff)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=fff)
+
+CI/CD · Automated Testing · Build Pipelines · Deployment Pipelines · Production Deployments
+
+### Linux & Deployment Infrastructure
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=000)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=fff)
 
-**Areas:**
-Containerization · Kubernetes · Linux · Windows · Deployment Environments · System Configuration
-
-## Deployment & Delivery
-
-**Areas:**
-`CI/CD Concepts` · `Production Deployments` · `Deployment Automation` · `Change Management` · `Configuration & Patch Management`
+Linux Administration · Shell Scripting · SSH · Processes & Services · Permissions · Networking · Reverse Proxying · DNS · SSL/TLS · HTTPS · VPS Deployment
 
 ---
 
 # ⚙️ Automation & Reliability
 
-## Automation
+### Automation
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge\&logo=google\&logoColor=fff)
 
-**Areas:**
-Workflow Automation · Scheduled Jobs · Deployment Scripts · API Integrations · Operational Tooling
+Python · JavaScript / Node.js · Bash · PowerShell · Scheduled Jobs · Cron · Background Workers · Queue-Based Jobs · Event-Driven Workflows
 
-## Monitoring & Troubleshooting
+### Application Automation
 
-**Areas:**
-Application Monitoring · Log Analysis · Incident Management · Production Troubleshooting · Failure Analysis · SLA Adherence · Failure Isolation
+API Integrations · Data Synchronization · Automated Indexing · Scheduled Database Operations · Automated Deployments · Automated Testing · Reporting · Email Automation · Google Workspace Automation
 
-I enjoy understanding problems from the **system behavior and data** rather than treating symptoms in isolation.
+### Reliability & Operations
+
+Application Monitoring · Log Analysis · Production Troubleshooting · Incident Investigation · Root-Cause Analysis · Performance Optimization · Failure Analysis · Failure Isolation · Rate Limiting · SLA Awareness
+
+---
+
+# 🧩 Systems & Architecture
+
+REST · Monoliths · Microservices · Event-Driven Architecture · Message Queues · Pub/Sub · Distributed Systems · Concurrency · Async Processing · Caching · Consistency · Delivery Semantics · Idempotency · Fault Tolerance
 
 ---
 
 # 🧰 Development Tools
 
-## Version Control & Collaboration
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=fff)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=fff)
-
-## Development & API Testing
-
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=fff)
 
-**Development Practices:**
-API Testing · Debugging · Log Analysis · Database Debugging · Query Optimization · API Documentation
-
-## Automation & Integration
-
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge\&logo=google\&logoColor=fff)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=fff)
-
-**Integrations:**
-REST APIs · External Service Integrations · Google Workspace Automation · Scheduled Workflows
+API Testing · Debugging · API Documentation · Version Control · Issue Tracking · AI-Assisted Development
 
 ---
 
@@ -190,39 +185,25 @@ I'm currently focused on building increasingly complete systems and understandin
 
 ### Software Engineering
 
-`Backend Architecture` · `Distributed Systems` · `Data-Intensive Applications` · `API Design` · `System Reliability`
+Backend Architecture · Distributed Systems · Data-Intensive Applications · API Design · System Reliability
 
 ### AI / ML
 
-`Machine Learning` · `Deep Learning` · `NLP` · `Generative AI` · `LLMs` · `RAG` · `AI Agents` · `Multi-Agent Systems`
+Machine Learning · Deep Learning · NLP · Generative AI · LLMs · RAG · Information Retrieval · AI Agents
 
 ### Infrastructure
 
-`Docker` · `Kubernetes` · `Cloud Architecture` · `CI/CD` · `Monitoring` · `Observability`
+Cloud Architecture · Docker · Kubernetes · CI/CD · Linux · Monitoring · Observability
 
 ### Data
 
-`SQL` · `NoSQL` · `Vector Search` · `Information Retrieval` · `Data Pipelines`
+SQL · NoSQL · Data Pipelines · Vector Search · Information Retrieval · Caching
 
 ---
 
 # 🧪 How I Learn
 
 I learn best by **building something that forces me to understand the underlying system**.
-
-```text id="z8tqcv"
-Learn the concept
-       ↓
-Build something with it
-       ↓
-Find out where my assumptions were wrong
-       ↓
-Debug the system
-       ↓
-Understand why it works
-       ↓
-Make it better
-```
 
 You'll find a mix of **applications, experiments, technical explorations, and ongoing projects** across my repositories.
 
