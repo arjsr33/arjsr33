@@ -234,7 +234,11 @@ You'll find a mix of **applications, experiments, technical explorations, and on
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arjsr33&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=arjsr33"
+    alt="GitHub Streak"
+    height="195"
+  />
 </p>
 
 ---
