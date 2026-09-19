@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### Software Engineer | Full-Stack Development • AI/ML • Cloud & Infrastructure
+### Software Engineer | AI/ML • Full-Stack Development • Cloud & Infrastructure
 
 I build software to understand how things work — then break things apart to make them work better.
 
